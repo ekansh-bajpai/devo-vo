@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+DEVO.pth
+thirdparty/
+build/
+*.egg-info/
+*.so
